@@ -1,5 +1,0 @@
-C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS102\bin\Debug\net7.0\publish\CS102.exe
-C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS102\bin\Debug\net7.0\publish\CS102.dll
-C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS102\bin\Debug\net7.0\publish\CS102.deps.json
-C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS102\bin\Debug\net7.0\publish\CS102.runtimeconfig.json
-C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS102\bin\Debug\net7.0\publish\CS102.pdb
