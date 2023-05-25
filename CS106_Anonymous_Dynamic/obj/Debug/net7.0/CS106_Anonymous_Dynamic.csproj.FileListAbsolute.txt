@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\bin\Debug\net7.0\CS106_Anonymous_Dynamic.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\bin\Debug\net7.0\CS106_Anonymous_Dynamic.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\bin\Debug\net7.0\CS106_Anonymous_Dynamic.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\bin\Debug\net7.0\CS106_Anonymous_Dynamic.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\bin\Debug\net7.0\CS106_Anonymous_Dynamic.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\refint\CS106_Anonymous_Dynamic.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\CS106_Anonymous_Dynamic.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS106_Anonymous_Dynamic\obj\Debug\net7.0\ref\CS106_Anonymous_Dynamic.dll

@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\bin\Debug\net7.0\Cs116_Queue_Stack_LinkedList.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\bin\Debug\net7.0\Cs116_Queue_Stack_LinkedList.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\bin\Debug\net7.0\Cs116_Queue_Stack_LinkedList.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\bin\Debug\net7.0\Cs116_Queue_Stack_LinkedList.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\bin\Debug\net7.0\Cs116_Queue_Stack_LinkedList.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\refint\Cs116_Queue_Stack_LinkedList.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\Cs116_Queue_Stack_LinkedList.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\Cs116_Queue_Stack_LinkedList\obj\Debug\net7.0\ref\Cs116_Queue_Stack_LinkedList.dll

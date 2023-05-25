@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\bin\Debug\net7.0\CS103.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\bin\Debug\net7.0\CS103.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\bin\Debug\net7.0\CS103.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\bin\Debug\net7.0\CS103.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\bin\Debug\net7.0\CS103.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\refint\CS103.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\CS103.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS103\obj\Debug\net7.0\ref\CS103.dll

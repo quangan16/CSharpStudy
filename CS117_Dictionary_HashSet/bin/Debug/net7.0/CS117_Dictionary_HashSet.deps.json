@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS117_Dictionary_HashSet/1.0.0": {
+        "runtime": {
+          "CS117_Dictionary_HashSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS117_Dictionary_HashSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

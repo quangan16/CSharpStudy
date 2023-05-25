@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\bin\Debug\net7.0\CS120_Asynchronous.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\bin\Debug\net7.0\CS120_Asynchronous.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\bin\Debug\net7.0\CS120_Asynchronous.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\bin\Debug\net7.0\CS120_Asynchronous.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\bin\Debug\net7.0\CS120_Asynchronous.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\refint\CS120_Asynchronous.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\CS120_Asynchronous.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS120_Asynchronous\obj\Debug\net7.0\ref\CS120_Asynchronous.dll

@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\bin\Debug\net7.0\CS113_OperatorOverload_Indexer.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\bin\Debug\net7.0\CS113_OperatorOverload_Indexer.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\bin\Debug\net7.0\CS113_OperatorOverload_Indexer.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\bin\Debug\net7.0\CS113_OperatorOverload_Indexer.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\bin\Debug\net7.0\CS113_OperatorOverload_Indexer.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\refint\CS113_OperatorOverload_Indexer.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\CS113_OperatorOverload_Indexer.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS113_OperatorOverload_Indexer\obj\Debug\net7.0\ref\CS113_OperatorOverload_Indexer.dll

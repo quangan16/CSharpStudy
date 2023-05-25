@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\bin\Debug\net7.0\CS115_List_SortedList.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\bin\Debug\net7.0\CS115_List_SortedList.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\bin\Debug\net7.0\CS115_List_SortedList.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\bin\Debug\net7.0\CS115_List_SortedList.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\bin\Debug\net7.0\CS115_List_SortedList.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\refint\CS115_List_SortedList.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\CS115_List_SortedList.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS115_List_SortedList\obj\Debug\net7.0\ref\CS115_List_SortedList.dll

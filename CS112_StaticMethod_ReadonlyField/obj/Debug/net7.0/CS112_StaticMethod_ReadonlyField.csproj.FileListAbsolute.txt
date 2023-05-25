@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\bin\Debug\net7.0\CS112_StaticMethod_ReadonlyField.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\bin\Debug\net7.0\CS112_StaticMethod_ReadonlyField.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\bin\Debug\net7.0\CS112_StaticMethod_ReadonlyField.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\bin\Debug\net7.0\CS112_StaticMethod_ReadonlyField.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\bin\Debug\net7.0\CS112_StaticMethod_ReadonlyField.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\refint\CS112_StaticMethod_ReadonlyField.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\CS112_StaticMethod_ReadonlyField.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS112_StaticMethod_ReadonlyField\obj\Debug\net7.0\ref\CS112_StaticMethod_ReadonlyField.dll

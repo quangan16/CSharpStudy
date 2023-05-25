@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\bin\Debug\net7.0\CS111_ExtensionMethod.exe
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\bin\Debug\net7.0\CS111_ExtensionMethod.deps.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\bin\Debug\net7.0\CS111_ExtensionMethod.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\bin\Debug\net7.0\CS111_ExtensionMethod.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\bin\Debug\net7.0\CS111_ExtensionMethod.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\refint\CS111_ExtensionMethod.dll
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.pdb
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\CS111_ExtensionMethod.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\C#_Project\C#_Study\CS111_ExtensionMethod\obj\Debug\net7.0\ref\CS111_ExtensionMethod.dll
