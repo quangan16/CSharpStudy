@@ -50,6 +50,17 @@ class Program
         Console.WriteLine("T3 finished");
         
     }
+
+    static async Task Abc()
+    {
+        Task task = new Task(
+            () => {}
+        );
+        task.Start();
+        await File.WriteAllTextAsync("1.txt", "asdfasdf"); //Thread
+        // ...
+
+    }
     static async Task Main(string[] args)
     {
         // synchronous
@@ -80,9 +91,9 @@ class Program
         DoSomething(5, "T1", ConsoleColor.DarkGreen);//  Thread 1
         // DoSomething(5, "T1", ConsoleColor.DarkGreen);//  Thread 1
         // t2.Wait();
-        // await t2;
+        await t2;
         // t3.Wait();
-        // await t3;
+        await t3;
         // Task.WaitAll(t2, t3);
         Console.WriteLine("Press any key ...");
 
