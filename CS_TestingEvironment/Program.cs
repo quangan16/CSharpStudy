@@ -1,33 +1,23 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Threading;
 
-
-var result = await PrintFirstAsync();
-Console.WriteLine(result);
-PrintSecondAsync();
-Console.ReadLine();
-static async Task<bool> PrintFirstAsync()
+public class Program
 {
-    bool finished = false;
-    await Task.Run(() =>
+    public static void Main()
     {
+        int[,] array = new int[3, 3] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+        Console.WriteLine("Value is " + array[2, 1]);
+        Console.Read();
 
-        Thread.Sleep(2000);
-        Console.WriteLine("First");
-        finished = true;
-    });
-    return finished;
+    }
 }
 
-static async Task PrintSecondAsync()
+public class Customer
 {
-    await Task.Run(() =>
+    private string name;
+
+    public Customer(string name)
     {
-        Thread.Sleep(2000);
-        Console.WriteLine("Second");
-    });
+        this.name = name;
+    }
 }
-
-
-    
-
